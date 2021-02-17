@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springdataredis" />
+        <module name="demo" />
+        <module name="springsession" />
+        <module name="springkafka" />
+        <module name="helloboot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot2" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="helloboot" target="1.8" />
+      <module name="springdataredis" target="1.8" />
+      <module name="springkafka" target="1.8" />
+      <module name="springsession" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot2" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="helloboot" options="-parameters" />
+      <module name="springdataredis" options="-parameters" />
+      <module name="springkafka" options="-parameters" />
+      <module name="springsession" options="-parameters" />
+    </option>
+  </component>
+</project>
