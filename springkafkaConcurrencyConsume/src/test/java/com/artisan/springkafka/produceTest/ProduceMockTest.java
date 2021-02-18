@@ -40,7 +40,8 @@ public class ProduceMockTest {
     public void testAsynSend() throws ExecutionException, InterruptedException {
         logger.info("开始发送");
 
-        for (int i = 0; i < 20; i++) {
+        // 模拟发送多条消息
+        for (int i = 0; i < 10; i++) {
             artisanProducerMock.sendMsgSync();
         }
 

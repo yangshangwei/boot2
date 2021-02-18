@@ -23,7 +23,7 @@ public class ArtisanCosumerMock {
     private static final String CONSUMER_GROUP_PREFIX = "MOCK-A" ;
 
     @KafkaListener(topics = TOPIC.TOPIC ,groupId = CONSUMER_GROUP_PREFIX + TOPIC.TOPIC,
-        concurrency = "4")
+        concurrency = "2")
     public void onMessage(MessageMock messageMock){
         logger.info("【接受到消息][线程ID:{} 消息内容：{}]", Thread.currentThread().getId(), messageMock);
     }
