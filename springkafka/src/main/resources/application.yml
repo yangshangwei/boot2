@@ -26,6 +26,6 @@ logging:
   level:
     org:
       springframework:
-        kafka: ERROR # spring-kafka INFO 日志太多了，所以我们限制只打印 ERROR 级别
+        kafka: ERROR # spring-kafka
       apache:
-        kafka: ERROR # kafka INFO 日志太多了，所以我们限制只打印 ERROR 级别
+        kafka: ERROR # kafka

@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springkafkaBatchSend" />
+        <module name="springsession" />
         <module name="springdataredis" />
         <module name="demo" />
-        <module name="springsession" />
         <module name="springkafka" />
+        <module name="springkafka (1)" />
         <module name="helloboot" />
       </profile>
     </annotationProcessing>
@@ -19,6 +21,8 @@
       <module name="helloboot" target="1.8" />
       <module name="springdataredis" target="1.8" />
       <module name="springkafka" target="1.8" />
+      <module name="springkafka (1)" target="1.8" />
+      <module name="springkafkaBatchSend" target="1.8" />
       <module name="springsession" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -29,6 +33,8 @@
       <module name="helloboot" options="-parameters" />
       <module name="springdataredis" options="-parameters" />
       <module name="springkafka" options="-parameters" />
+      <module name="springkafka (1)" options="-parameters" />
+      <module name="springkafkaBatchSend" options="-parameters" />
       <module name="springsession" options="-parameters" />
     </option>
   </component>

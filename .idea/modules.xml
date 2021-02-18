@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/helloboot/helloboot.iml" filepath="$PROJECT_DIR$/helloboot/helloboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdataredis/springdataredis.iml" filepath="$PROJECT_DIR$/springdataredis/springdataredis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springkafka/springkafka.iml" filepath="$PROJECT_DIR$/springkafka/springkafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaBatchSend/springkafka (1).iml" filepath="$PROJECT_DIR$/springkafkaBatchSend/springkafka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaBatchSend/springkafkaBatchSend.iml" filepath="$PROJECT_DIR$/springkafkaBatchSend/springkafkaBatchSend.iml" />
       <module fileurl="file://$PROJECT_DIR$/springsession/springsession.iml" filepath="$PROJECT_DIR$/springsession/springsession.iml" />
     </modules>
   </component>

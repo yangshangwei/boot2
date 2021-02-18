@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/helloboot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdataredis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springkafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springkafkaBatchSend/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsession/src/main/java" charset="UTF-8" />
   </component>
 </project>
