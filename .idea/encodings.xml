@@ -8,6 +8,7 @@
     <file url="file://$PROJECT_DIR$/springkafkaBatchConsumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springkafkaBatchSend/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springkafkaBroadCast/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springkafkaRetries/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsession/src/main/java" charset="UTF-8" />
   </component>
 </project>
