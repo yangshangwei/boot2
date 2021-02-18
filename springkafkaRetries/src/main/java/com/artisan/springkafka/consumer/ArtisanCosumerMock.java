@@ -26,7 +26,8 @@ public class ArtisanCosumerMock {
     public void onMessage(MessageMock messageMock){
         logger.info("【接受到消息][线程:{} 消息内容：{}]", Thread.currentThread().getName(), messageMock);
 
-        int i = 1 / 0 ;
+        // 模拟抛出一次一行
+        throw new RuntimeException("MOCK Handle Exception Happened");
     }
 
 }
