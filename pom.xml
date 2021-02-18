@@ -8,6 +8,9 @@
         <module>springsession</module>
         <module>springdataredis</module>
         <module>springkafka</module>
+        <module>springkafkaBatchConsumer</module>
+        <module>springkafkaBatchSend</module>
+
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

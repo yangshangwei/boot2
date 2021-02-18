@@ -9,6 +9,7 @@
         <module name="springkafkaBatchSend" />
         <module name="springsession" />
         <module name="springdataredis" />
+        <module name="springkafkaBatchSend (1)" />
         <module name="demo" />
         <module name="springkafka" />
         <module name="springkafka (1)" />
@@ -23,6 +24,7 @@
       <module name="springkafka" target="1.8" />
       <module name="springkafka (1)" target="1.8" />
       <module name="springkafkaBatchSend" target="1.8" />
+      <module name="springkafkaBatchSend (1)" target="1.8" />
       <module name="springsession" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -35,6 +37,7 @@
       <module name="springkafka" options="-parameters" />
       <module name="springkafka (1)" options="-parameters" />
       <module name="springkafkaBatchSend" options="-parameters" />
+      <module name="springkafkaBatchSend (1)" options="-parameters" />
       <module name="springsession" options="-parameters" />
     </option>
   </component>
