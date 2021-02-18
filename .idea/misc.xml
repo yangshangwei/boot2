@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/springkafka/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaBatchSend/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaBatchConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafkaBroadCast/pom.xml" />
       </list>
     </option>
   </component>

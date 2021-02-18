@@ -10,7 +10,7 @@
         <module>springkafka</module>
         <module>springkafkaBatchConsumer</module>
         <module>springkafkaBatchSend</module>
-
+        <module>springkafkaBroadCast</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
