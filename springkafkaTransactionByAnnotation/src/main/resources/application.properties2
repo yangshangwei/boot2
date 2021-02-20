@@ -1,0 +1,9 @@
+#============== kafka ===================
+
+
+kafka.producer.servers=192.168.126.140:9092
+kafka.producer.retries=3
+kafka.producer.batch.size=4096
+kafka.producer.linger=1
+kafka.producer.buffer.memory=40960
+
