@@ -11,6 +11,14 @@
         <module>springkafkaBatchConsumer</module>
         <module>springkafkaBatchSend</module>
         <module>springkafkaBroadCast</module>
+        <module>springkafka_auto.offset.reset</module>
+        <module>springkafka_max.poll.interval.ms</module>
+        <module>springkafkaACK</module>
+        <module>springkafkaConcurrencyConsume</module>
+        <module>springkafkaRetries</module>
+        <module>springkafkaTransaction</module>
+        <module>springkafkaSerialConsume</module>
+        <module>springkafkaTransactionByAnnotation</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
