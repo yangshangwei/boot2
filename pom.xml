@@ -22,6 +22,8 @@
         <module>javareview</module>
         <module>java8review</module>
         <module>jvmTuning</module>
+        <module>spring</module>
+        <module>spring_maven</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
