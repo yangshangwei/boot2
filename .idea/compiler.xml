@@ -12,6 +12,7 @@
         <module name="springkafkaBatchSend (4)" />
         <module name="springkafkaBatchSend (5)" />
         <module name="springkafkaBatchSend (6)" />
+        <module name="es-highlevelAPI" />
         <module name="springkafkaBatchSend (1)" />
         <module name="springkafkaBatchSend (2)" />
         <module name="spring" />
@@ -41,6 +42,7 @@
     <bytecodeTargetLevel>
       <module name="boot2" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="es-highlevelAPI" target="1.8" />
       <module name="helloboot" target="1.8" />
       <module name="java8review" target="1.8" />
       <module name="javareview" target="1.8" />
@@ -67,6 +69,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="boot2" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="es-highlevelAPI" options="-parameters" />
       <module name="helloboot" options="-parameters" />
       <module name="java8review" options="-parameters" />
       <module name="javareview" options="-parameters" />

@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/springkafkaTransactionByAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/springkafka_auto.offset.reset/pom.xml" />
         <option value="$PROJECT_DIR$/springkafka_max.poll.interval.ms/pom.xml" />
+        <option value="$PROJECT_DIR$/es-highlevelAPI/pom.xml" />
       </list>
     </option>
   </component>

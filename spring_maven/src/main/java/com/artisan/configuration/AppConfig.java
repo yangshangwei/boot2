@@ -12,12 +12,8 @@ import org.springframework.context.annotation.Import;
 
 @Configuration
 //@Import({ArtisanConfig.class})
-
 // @Import(ArtisanImportSelector.class)
-
 //@Import(ArtisanRegistrar.class)
-
-
 @EnableArtisan
 public class AppConfig {
 }
