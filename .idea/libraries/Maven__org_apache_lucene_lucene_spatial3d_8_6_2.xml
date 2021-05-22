@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.lucene:lucene-spatial3d:8.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/apache/lucene/lucene-spatial3d/8.6.2/lucene-spatial3d-8.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/apache/lucene/lucene-spatial3d/8.6.2/lucene-spatial3d-8.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/apache/lucene/lucene-spatial3d/8.6.2/lucene-spatial3d-8.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

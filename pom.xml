@@ -19,6 +19,9 @@
         <module>springkafkaTransaction</module>
         <module>springkafkaSerialConsume</module>
         <module>springkafkaTransactionByAnnotation</module>
+        <module>javareview</module>
+        <module>java8review</module>
+        <module>jvmTuning</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

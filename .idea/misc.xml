@@ -4,11 +4,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/springkafka/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaBatchSend/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaBatchConsumer/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaRetries/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafkaConcurrencyConsume/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafkaSerialConsume/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafkaACK/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafkaTransaction/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafkaTransactionByAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafka_auto.offset.reset/pom.xml" />
+        <option value="$PROJECT_DIR$/springkafka_max.poll.interval.ms/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adminMonitor/adminMonitor.iml" filepath="$PROJECT_DIR$/adminMonitor/adminMonitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2.iml" filepath="$PROJECT_DIR$/boot2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloboot/helloboot.iml" filepath="$PROJECT_DIR$/helloboot/helloboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8review/java8review.iml" filepath="$PROJECT_DIR$/java8review/java8review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javareview/javareview.iml" filepath="$PROJECT_DIR$/javareview/javareview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvmTuning/jvmTuning.iml" filepath="$PROJECT_DIR$/jvmTuning/jvmTuning.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdataredis/springdataredis.iml" filepath="$PROJECT_DIR$/springdataredis/springdataredis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springkafka/springkafka.iml" filepath="$PROJECT_DIR$/springkafka/springkafka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaBatchSend/springkafka (1).iml" filepath="$PROJECT_DIR$/springkafkaBatchSend/springkafka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafka_auto.offset.reset/springkafka (1).iml" filepath="$PROJECT_DIR$/springkafka_auto.offset.reset/springkafka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafka_max.poll.interval.ms/springkafka (2).iml" filepath="$PROJECT_DIR$/springkafka_max.poll.interval.ms/springkafka (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/springkafkaBatchSend/springkafkaBatchSend.iml" filepath="$PROJECT_DIR$/springkafkaBatchSend/springkafkaBatchSend.iml" />
       <module fileurl="file://$PROJECT_DIR$/springkafkaBatchConsumer/springkafkaBatchSend (1).iml" filepath="$PROJECT_DIR$/springkafkaBatchConsumer/springkafkaBatchSend (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/springkafkaBroadCast/springkafkaBatchSend (2).iml" filepath="$PROJECT_DIR$/springkafkaBroadCast/springkafkaBatchSend (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/springkafkaRetries/springkafkaBatchSend (3).iml" filepath="$PROJECT_DIR$/springkafkaRetries/springkafkaBatchSend (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaConcurrencyConsume/springkafkaBatchSend (4).iml" filepath="$PROJECT_DIR$/springkafkaConcurrencyConsume/springkafkaBatchSend (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaSerialConsume/springkafkaBatchSend (5).iml" filepath="$PROJECT_DIR$/springkafkaSerialConsume/springkafkaBatchSend (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaACK/springkafkaBatchSend (6).iml" filepath="$PROJECT_DIR$/springkafkaACK/springkafkaBatchSend (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaTransaction/springkafkaBatchSend (7).iml" filepath="$PROJECT_DIR$/springkafkaTransaction/springkafkaBatchSend (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springkafkaTransactionByAnnotation/springkafkaBatchSend (8).iml" filepath="$PROJECT_DIR$/springkafkaTransactionByAnnotation/springkafkaBatchSend (8).iml" />
       <module fileurl="file://$PROJECT_DIR$/springsession/springsession.iml" filepath="$PROJECT_DIR$/springsession/springsession.iml" />
     </modules>
   </component>

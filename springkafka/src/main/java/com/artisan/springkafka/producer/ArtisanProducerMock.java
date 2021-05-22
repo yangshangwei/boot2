@@ -1,6 +1,6 @@
 package com.artisan.springkafka.producer;
 
-import com.artisan.springkafka.constants.TOPIC;
+import com.artisan.springkafka.constants.TOPICA;
 import com.artisan.springkafka.domain.MessageMock;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
@@ -38,7 +38,7 @@ public class ArtisanProducerMock {
         Integer id = new Random().nextInt(100);
         MessageMock messageMock = new MessageMock(id,"artisanTestMessage-" + id);
         // 同步等待
-       return  kafkaTemplate.send(TOPIC.TOPIC, messageMock).get();
+       return  kafkaTemplate.send(TOPICA.TOPIC, messageMock).get();
     }
 
 
@@ -48,9 +48,8 @@ public class ArtisanProducerMock {
         Integer id = new Random().nextInt(100);
         MessageMock messageMock = new MessageMock(id,"messageSendByAsync-" + id);
         // 异步发送消息
-        ListenableFuture<SendResult<Object, Object>> result = kafkaTemplate.send(TOPIC.TOPIC, messageMock);
+        ListenableFuture<SendResult<Object, Object>> result = kafkaTemplate.send(TOPICA.TOPIC, messageMock);
         return result ;
-
     }
 
 }

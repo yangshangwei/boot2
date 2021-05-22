@@ -1,7 +1,7 @@
 package com.artisan.springkafka.consumer;
 
 import com.artisan.springkafka.domain.MessageMock;
-import com.artisan.springkafka.constants.TOPIC;
+import com.artisan.springkafka.constants.TOPICA;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.kafka.annotation.KafkaListener;
@@ -26,7 +26,7 @@ public class ArtisanCosumerMock {
      * 消费者的groupId ,每次启动都通过SPEL 随机一个出来，确保每次都是一个新的消费组 用于测试 auto.offset.reset 参数 设置为 earliest的情况
      * @param messageMock
      */
-    @KafkaListener(topics = TOPIC.TOPIC ,groupId = CONSUMER_GROUP_PREFIX + TOPIC.TOPIC +  "-" + "#{T(java.util.UUID).randomUUID()})")
+    @KafkaListener(topics = TOPICA.TOPIC ,groupId = CONSUMER_GROUP_PREFIX + TOPICA.TOPIC +  "-" + "#{T(java.util.UUID).randomUUID()})")
     public void onMessage(MessageMock messageMock){
         logger.info("【接受到消息][线程:{} 消息内容：{}]", Thread.currentThread().getName(), messageMock);
     }

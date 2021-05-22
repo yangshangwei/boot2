@@ -11,7 +11,7 @@ import java.util.concurrent.atomic.AtomicReference;
 public class FutureInAction {
     public static void main(String[] args) throws InterruptedException {
 
-     /*   Future<String> future = invoke(() -> {
+       Future<String> future = invoke(() -> {
             try {
                 Thread.sleep(10000);
                 return "I am finished.";
@@ -27,17 +27,17 @@ public class FutureInAction {
         while (!future.isDone()) {
             Thread.sleep(10);
         }
-        System.out.println(future.get());*/
+        System.out.println(future.get());
 
-        String value = block(() -> {
-            try {
-                Thread.sleep(10000);
-                return "I am finished.";
-            } catch (InterruptedException e) {
-                return "Error";
-            }
-        });
-        System.out.println(value);
+//        String value = block(() -> {
+//            try {
+//                Thread.sleep(10000);
+//                return "I am finished.";
+//            } catch (InterruptedException e) {
+//                return "Error";
+//            }
+//        });
+//        System.out.println(value);
     }
 
     private static <T> T block(Callable<T> callable) {
@@ -48,6 +48,8 @@ public class FutureInAction {
 
         AtomicReference<T> result = new AtomicReference<>();
         AtomicBoolean finished = new AtomicBoolean(false);
+
+
         Thread t = new Thread(() -> {
             T value = callable.action();
             result.set(value);
@@ -77,6 +79,7 @@ public class FutureInAction {
 
         boolean isDone();
     }
+
 
     private interface Callable<T> {
         T action();

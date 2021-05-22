@@ -6,29 +6,56 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafkaBatchSend" />
-        <module name="springkafkaBatchSend (3)" />
-        <module name="springsession" />
-        <module name="springdataredis" />
+        <module name="java8review" />
+        <module name="springkafkaBatchSend (7)" />
+        <module name="springkafkaBatchSend (8)" />
+        <module name="springkafkaBatchSend (4)" />
+        <module name="springkafkaBatchSend (5)" />
+        <module name="springkafkaBatchSend (6)" />
         <module name="springkafkaBatchSend (1)" />
         <module name="springkafkaBatchSend (2)" />
-        <module name="demo" />
         <module name="springkafka" />
-        <module name="springkafka (1)" />
+        <module name="springkafkaBatchSend" />
+        <module name="springsession" />
+        <module name="jvmTuning" />
+        <module name="javareview" />
+        <module name="springdataredis" />
+        <module name="springkafka (2)" />
         <module name="helloboot" />
+      </profile>
+      <profile name="Annotation profile for springkafkaBatchSend (3)" enabled="true">
+        <sourceOutputDir name="../springkafkaTransaction/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafkaTransaction/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springkafkaBatchSend (3)" />
+      </profile>
+      <profile name="Annotation profile for boot2" enabled="true">
+        <sourceOutputDir name="../springkafka_max.poll.interval.ms/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafka_max.poll.interval.ms/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springkafka (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="boot2" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="helloboot" target="1.8" />
+      <module name="java8review" target="1.8" />
+      <module name="javareview" target="1.8" />
+      <module name="jvmTuning" target="1.8" />
       <module name="springdataredis" target="1.8" />
       <module name="springkafka" target="1.8" />
       <module name="springkafka (1)" target="1.8" />
+      <module name="springkafka (2)" target="1.8" />
       <module name="springkafkaBatchSend" target="1.8" />
       <module name="springkafkaBatchSend (1)" target="1.8" />
       <module name="springkafkaBatchSend (2)" target="1.8" />
       <module name="springkafkaBatchSend (3)" target="1.8" />
+      <module name="springkafkaBatchSend (4)" target="1.8" />
+      <module name="springkafkaBatchSend (5)" target="1.8" />
+      <module name="springkafkaBatchSend (6)" target="1.8" />
+      <module name="springkafkaBatchSend (7)" target="1.8" />
+      <module name="springkafkaBatchSend (8)" target="1.8" />
       <module name="springsession" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -37,13 +64,22 @@
       <module name="boot2" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="helloboot" options="-parameters" />
+      <module name="java8review" options="-parameters" />
+      <module name="javareview" options="-parameters" />
+      <module name="jvmTuning" options="-parameters" />
       <module name="springdataredis" options="-parameters" />
       <module name="springkafka" options="-parameters" />
       <module name="springkafka (1)" options="-parameters" />
+      <module name="springkafka (2)" options="-parameters" />
       <module name="springkafkaBatchSend" options="-parameters" />
       <module name="springkafkaBatchSend (1)" options="-parameters" />
       <module name="springkafkaBatchSend (2)" options="-parameters" />
       <module name="springkafkaBatchSend (3)" options="-parameters" />
+      <module name="springkafkaBatchSend (4)" options="-parameters" />
+      <module name="springkafkaBatchSend (5)" options="-parameters" />
+      <module name="springkafkaBatchSend (6)" options="-parameters" />
+      <module name="springkafkaBatchSend (7)" options="-parameters" />
+      <module name="springkafkaBatchSend (8)" options="-parameters" />
       <module name="springsession" options="-parameters" />
     </option>
   </component>

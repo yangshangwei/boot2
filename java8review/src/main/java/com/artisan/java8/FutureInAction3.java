@@ -10,6 +10,7 @@ import java.util.concurrent.atomic.AtomicReference;
  ***************************************/
 public class FutureInAction3 {
 
+
     public static void main(String[] args) {
 
 
@@ -26,7 +27,7 @@ public class FutureInAction3 {
         future.setCompletable(new Completable<String>() {
             @Override
             public void complete(String s) {
-                System.out.println(s);
+                System.out.println("complete called ---- " + s);
             }
 
             @Override
@@ -35,15 +36,15 @@ public class FutureInAction3 {
                 cause.printStackTrace();
             }
         });
-        System.out.println(".........");
-        System.out.println(future.get());
-        System.out.println(future.get());
+        System.out.println("....do something else .....");
+        System.out.println("try to get result ->" + future.get());
     }
 
     private static <T> Future<T> invoke(Callable<T> callable) {
 
         AtomicReference<T> result = new AtomicReference<>();
         AtomicBoolean finished = new AtomicBoolean(false);
+
         Future<T> future = new Future<T>() {
             private Completable<T> completable;
 
@@ -57,11 +58,13 @@ public class FutureInAction3 {
                 return finished.get();
             }
 
+            // 设置完成
             @Override
             public void setCompletable(Completable<T> completable) {
                 this.completable = completable;
             }
 
+            // 获取
             @Override
             public Completable<T> getCompletable() {
                 return completable;
@@ -91,8 +94,10 @@ public class FutureInAction3 {
 
         boolean isDone();
 
+        //  1
         void setCompletable(Completable<T> completable);
 
+        //  2
         Completable<T> getCompletable();
     }
 
@@ -100,6 +105,7 @@ public class FutureInAction3 {
         T action();
     }
 
+    // 回调接口
     private interface Completable<T> {
 
         void complete(T t);
