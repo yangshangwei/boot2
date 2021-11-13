@@ -24,6 +24,7 @@
         <module>jvmTuning</module>
         <module>spring</module>
         <module>spring_maven</module>
+        <module>redissionmaster</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
