@@ -8,6 +8,8 @@
     <file url="file://$PROJECT_DIR$/javareview/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jvmTuning/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redissionmaster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spiCaller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spiProvider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_maven/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdataredis/src/main/java" charset="UTF-8" />

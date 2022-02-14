@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spiCaller_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spiProvider/lib/spiCaller_jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

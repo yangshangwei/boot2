@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spiProvider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spiProvider_jar</output-path>
+    <root id="archive" name="spiProvider.jar">
+      <element id="module-output" name="spiProvider" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spiProvider/lib/spiCaller_jar.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-context/5.3.2/spring-context-5.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/boot/spring-boot/2.4.1/spring-boot-2.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/boot/spring-boot-autoconfigure/2.4.1/spring-boot-autoconfigure-2.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/boot/spring-boot-devtools/2.4.1/spring-boot-devtools-2.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-jcl/5.3.2/spring-jcl-5.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-core/5.3.2/spring-core-5.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-expression/5.3.2/spring-expression-5.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-aop/5.3.2/spring-aop-5.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-beans/5.3.2/spring-beans-5.3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

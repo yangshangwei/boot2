@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/javareview/javareview.iml" filepath="$PROJECT_DIR$/javareview/javareview.iml" />
       <module fileurl="file://$PROJECT_DIR$/jvmTuning/jvmTuning.iml" filepath="$PROJECT_DIR$/jvmTuning/jvmTuning.iml" />
       <module fileurl="file://$PROJECT_DIR$/redissionmaster/redissionmaster.iml" filepath="$PROJECT_DIR$/redissionmaster/redissionmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiCaller/spiCaller.iml" filepath="$PROJECT_DIR$/spiCaller/spiCaller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spiProvider/spiProvider.iml" filepath="$PROJECT_DIR$/spiProvider/spiProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_maven/spring_maven.iml" filepath="$PROJECT_DIR$/spring_maven/spring_maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdataredis/springdataredis.iml" filepath="$PROJECT_DIR$/springdataredis/springdataredis.iml" />
