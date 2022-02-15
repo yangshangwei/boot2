@@ -27,6 +27,8 @@
         <module>redissionmaster</module>
         <module>spiCaller</module>
         <module>spiProvider</module>
+        <module>boot-validate</module>
+        <module>boot-unit-response</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
