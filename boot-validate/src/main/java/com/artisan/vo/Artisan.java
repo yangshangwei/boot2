@@ -1,5 +1,6 @@
 package com.artisan.vo;
 
+import com.artisan.customvalidator.EnumString;
 import lombok.Data;
 import org.hibernate.validator.constraints.Length;
 
@@ -31,6 +32,8 @@ public class Artisan {
     @Email(message = "请填写正确的邮箱地址")
     private String email;
 
+
+    @EnumString(value = {"F", "M"}, message = "性别只允许为F或M")
     private String sex;
 
     @NotEmpty(message = "Code不能为空")
