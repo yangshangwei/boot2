@@ -9,8 +9,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springkafkaBatchSend (7)" />
         <module name="springkafkaBatchSend (3)" />
+        <module name="springkafkaBatchSend (5)" />
         <module name="springkafkaBatchSend (1)" />
-        <module name="springkafka" />
         <module name="spring" />
         <module name="spiProvider" />
         <module name="springkafkaBatchSend" />
@@ -24,26 +24,26 @@
         <module name="java8review" />
         <module name="springkafkaBatchSend (8)" />
         <module name="boot-validate" />
-        <module name="springkafkaBatchSend (4)" />
         <module name="springkafkaBatchSend (6)" />
         <module name="es-highlevelAPI" />
         <module name="springkafkaBatchSend (2)" />
         <module name="adminMonitor" />
         <module name="springsession" />
         <module name="redissionmaster" />
+        <module name="springkafka (2)" />
         <module name="boot-unit-response" />
       </profile>
-      <profile name="Annotation profile for springkafka (2)" enabled="true">
-        <sourceOutputDir name="../springkafka_auto.offset.reset/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafka_auto.offset.reset/target/generated-test-sources/test-annotations" />
+      <profile name="Annotation profile for springkafka" enabled="true">
+        <sourceOutputDir name="../springkafka_max.poll.interval.ms/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafka_max.poll.interval.ms/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafka (2)" />
+        <module name="springkafka" />
       </profile>
       <profile name="Annotation profile for boot2" enabled="true">
-        <sourceOutputDir name="../springkafkaConcurrencyConsume/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafkaConcurrencyConsume/target/generated-test-sources/test-annotations" />
+        <sourceOutputDir name="../springkafkaSerialConsume/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafkaSerialConsume/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafkaBatchSend (5)" />
+        <module name="springkafkaBatchSend (4)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
