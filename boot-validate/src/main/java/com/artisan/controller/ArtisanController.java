@@ -1,5 +1,6 @@
 package com.artisan.controller;
 
+import com.artisan.group.CustomValidateGroup;
 import com.artisan.vo.Artisan;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.validation.annotation.Validated;
@@ -58,6 +59,29 @@ public class ArtisanController {
         return "testParma  valid success";
     }
 
+
+    /**
+     *  新增的时候 不能为空
+     * @param artisan
+     * @return
+     */
+    @PostMapping(value = "/add")
+    public String add(@Validated(value = CustomValidateGroup.Crud.Create.class) Artisan artisan){
+        log.info("InComing Param is {}", artisan);
+        return "add valid success";
+    }
+
+
+    /**
+     * 更新的时候 可以为空
+     * @param artisan
+     * @return
+     */
+    @PostMapping(value = "/update")
+    public String update(@Validated(value = CustomValidateGroup.Crud.Update.class) Artisan artisan){
+        log.info("InComing Param is {}", artisan);
+        return "update valid success";
+    }
 
 }
     

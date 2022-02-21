@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adminMonitor/adminMonitor.iml" filepath="$PROJECT_DIR$/adminMonitor/adminMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applicatioonBuilderDemo/applicatioonBuilderDemo.iml" filepath="$PROJECT_DIR$/applicatioonBuilderDemo/applicatioonBuilderDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" filepath="$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-validate/boot-validate.iml" filepath="$PROJECT_DIR$/boot-validate/boot-validate.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2.iml" filepath="$PROJECT_DIR$/boot2.iml" />
