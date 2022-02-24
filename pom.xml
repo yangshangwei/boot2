@@ -30,6 +30,7 @@
         <module>boot-validate</module>
         <module>boot-unit-response</module>
         <module>applicatioonBuilderDemo</module>
+        <module>boot-assert</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

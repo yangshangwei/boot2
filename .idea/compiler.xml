@@ -20,36 +20,38 @@
         <module name="spring_maven" />
         <module name="springdataredis" />
         <module name="spiCaller" />
-        <module name="springkafka (1)" />
         <module name="helloboot" />
         <module name="java8review" />
+        <module name="boot-assert" />
         <module name="springkafkaBatchSend (8)" />
         <module name="boot-validate" />
-        <module name="springkafkaBatchSend (6)" />
+        <module name="springkafkaBatchSend (4)" />
         <module name="es-highlevelAPI" />
         <module name="springkafkaBatchSend (2)" />
         <module name="adminMonitor" />
         <module name="applicatioonBuilderDemo" />
         <module name="springsession" />
         <module name="redissionmaster" />
+        <module name="springkafka (2)" />
         <module name="boot-unit-response" />
       </profile>
-      <profile name="Annotation profile for springkafka (2)" enabled="true">
+      <profile name="Annotation profile for springkafka (1)" enabled="true">
         <sourceOutputDir name="../springkafka/target/generated-sources/annotations" />
         <sourceTestOutputDir name="../springkafka/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafka (2)" />
+        <module name="springkafka (1)" />
       </profile>
       <profile name="Annotation profile for boot2" enabled="true">
-        <sourceOutputDir name="../springkafkaTransactionByAnnotation/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafkaTransactionByAnnotation/target/generated-test-sources/test-annotations" />
+        <sourceOutputDir name="../springkafkaBatchSend/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafkaBatchSend/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafkaBatchSend (4)" />
+        <module name="springkafkaBatchSend (6)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="adminMonitor" target="1.8" />
       <module name="applicatioonBuilderDemo" target="1.8" />
+      <module name="boot-assert" target="1.8" />
       <module name="boot-unit-response" target="1.8" />
       <module name="boot-validate" target="1.8" />
       <module name="boot2" target="1.8" />
@@ -84,6 +86,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="adminMonitor" options="-parameters" />
       <module name="applicatioonBuilderDemo" options="-parameters" />
+      <module name="boot-assert" options="-parameters" />
       <module name="boot-unit-response" options="-parameters" />
       <module name="boot-validate" options="-parameters" />
       <module name="boot2" options="-parameters" />
