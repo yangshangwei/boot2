@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adminMonitor/adminMonitor.iml" filepath="$PROJECT_DIR$/adminMonitor/adminMonitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/applicatioonBuilderDemo/applicatioonBuilderDemo.iml" filepath="$PROJECT_DIR$/applicatioonBuilderDemo/applicatioonBuilderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-aopRateLimit/boot-aopRateLimit.iml" filepath="$PROJECT_DIR$/boot-aopRateLimit/boot-aopRateLimit.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-assert/boot-assert.iml" filepath="$PROJECT_DIR$/boot-assert/boot-assert.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-oshi/boot-oshi.iml" filepath="$PROJECT_DIR$/boot-oshi/boot-oshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" filepath="$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" />

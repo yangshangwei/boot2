@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/adminMonitor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/applicatioonBuilderDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-aopRateLimit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-assert/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-oshi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-unit-response/src/main/java" charset="UTF-8" />

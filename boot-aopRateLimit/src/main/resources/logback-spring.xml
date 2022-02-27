@@ -18,10 +18,10 @@
 	<!-- 按照每天生成日志文件INFO -->
 	<appender name="INFO_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
 		<!-- 正在记录的日志文件的路径及文件名 -->
-		<file>${LOG_HOME}/artisan_info.log</file>
+		<file>${LOG_HOME}/artisan.log</file>
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
 			<!--日志文件输出的文件名 -->
-			<FileNamePattern>${LOG_HOME}/artisan_info.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+			<FileNamePattern>${LOG_HOME}/artisan.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
 			<maxHistory>30</maxHistory>
 			<timeBasedFileNamingAndTriggeringPolicy
 					class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
