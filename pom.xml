@@ -31,6 +31,8 @@
         <module>boot-unit-response</module>
         <module>applicatioonBuilderDemo</module>
         <module>boot-assert</module>
+        <module>boot2-buziValidator</module>
+        <module>boot-oshi</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

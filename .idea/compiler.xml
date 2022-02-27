@@ -14,7 +14,6 @@
         <module name="springkafka" />
         <module name="spring" />
         <module name="spiProvider" />
-        <module name="springkafkaBatchSend" />
         <module name="jvmTuning" />
         <module name="javareview" />
         <module name="spring_maven" />
@@ -26,9 +25,12 @@
         <module name="springkafkaBatchSend (8)" />
         <module name="boot-validate" />
         <module name="springkafkaBatchSend (4)" />
+        <module name="springkafkaBatchSend (6)" />
         <module name="es-highlevelAPI" />
+        <module name="boot-oshi" />
         <module name="springkafkaBatchSend (2)" />
         <module name="adminMonitor" />
+        <module name="boot2-buziValidator" />
         <module name="applicatioonBuilderDemo" />
         <module name="springsession" />
         <module name="redissionmaster" />
@@ -36,25 +38,27 @@
         <module name="boot-unit-response" />
       </profile>
       <profile name="Annotation profile for springkafka (1)" enabled="true">
-        <sourceOutputDir name="../springkafka/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafka/target/generated-test-sources/test-annotations" />
+        <sourceOutputDir name="../springkafka_max.poll.interval.ms/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafka_max.poll.interval.ms/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springkafka (1)" />
       </profile>
       <profile name="Annotation profile for boot2" enabled="true">
-        <sourceOutputDir name="../springkafkaBatchSend/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafkaBatchSend/target/generated-test-sources/test-annotations" />
+        <sourceOutputDir name="../springkafkaConcurrencyConsume/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafkaConcurrencyConsume/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafkaBatchSend (6)" />
+        <module name="springkafkaBatchSend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="adminMonitor" target="1.8" />
       <module name="applicatioonBuilderDemo" target="1.8" />
       <module name="boot-assert" target="1.8" />
+      <module name="boot-oshi" target="1.8" />
       <module name="boot-unit-response" target="1.8" />
       <module name="boot-validate" target="1.8" />
       <module name="boot2" target="1.8" />
+      <module name="boot2-buziValidator" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="es-highlevelAPI" target="1.8" />
       <module name="helloboot" target="1.8" />
@@ -87,9 +91,11 @@
       <module name="adminMonitor" options="-parameters" />
       <module name="applicatioonBuilderDemo" options="-parameters" />
       <module name="boot-assert" options="-parameters" />
+      <module name="boot-oshi" options="-parameters" />
       <module name="boot-unit-response" options="-parameters" />
       <module name="boot-validate" options="-parameters" />
       <module name="boot2" options="-parameters" />
+      <module name="boot2-buziValidator" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="es-highlevelAPI" options="-parameters" />
       <module name="helloboot" options="-parameters" />

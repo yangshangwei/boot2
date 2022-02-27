@@ -1,0 +1,36 @@
+2022-02-27 22:23:44 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field artisanRepository in com.artisan.controller.ArtisanController required a bean of type 'com.artisan.repository.ArtisanRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.artisan.repository.ArtisanRepository' in your configuration.
+
+2022-02-27 22:24:02 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field artisanRepository in com.artisan.controller.ArtisanController required a bean of type 'com.artisan.repository.ArtisanRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.artisan.repository.ArtisanRepository' in your configuration.
+
