@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/boot-aopRateLimit/boot-aopRateLimit.iml" filepath="$PROJECT_DIR$/boot-aopRateLimit/boot-aopRateLimit.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-assert/boot-assert.iml" filepath="$PROJECT_DIR$/boot-assert/boot-assert.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-oshi/boot-oshi.iml" filepath="$PROJECT_DIR$/boot-oshi/boot-oshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-startvalidator/boot-startvalidator.iml" filepath="$PROJECT_DIR$/boot-startvalidator/boot-startvalidator.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" filepath="$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-validate/boot-validate.iml" filepath="$PROJECT_DIR$/boot-validate/boot-validate.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2.iml" filepath="$PROJECT_DIR$/boot2.iml" />

@@ -10,7 +10,6 @@
         <module name="springkafkaBatchSend (7)" />
         <module name="boot-aopRateLimit" />
         <module name="springkafkaBatchSend (3)" />
-        <module name="springkafkaBatchSend (5)" />
         <module name="springkafkaBatchSend (1)" />
         <module name="springkafka" />
         <module name="spring" />
@@ -25,6 +24,7 @@
         <module name="java8review" />
         <module name="boot-assert" />
         <module name="boot-validate" />
+        <module name="springkafkaBatchSend (8)" />
         <module name="springkafkaBatchSend (4)" />
         <module name="springkafkaBatchSend (6)" />
         <module name="es-highlevelAPI" />
@@ -37,18 +37,19 @@
         <module name="redissionmaster" />
         <module name="springkafka (2)" />
         <module name="boot-unit-response" />
+        <module name="boot-startvalidator" />
       </profile>
-      <profile name="Annotation profile for springkafkaBatchSend (8)" enabled="true">
+      <profile name="Annotation profile for boot2" enabled="true">
+        <sourceOutputDir name="../springkafka/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafka/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springkafka (1)" />
+      </profile>
+      <profile name="Annotation profile for springkafkaBatchSend (5)" enabled="true">
         <sourceOutputDir name="../springkafkaRetries/target/generated-sources/annotations" />
         <sourceTestOutputDir name="../springkafkaRetries/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafkaBatchSend (8)" />
-      </profile>
-      <profile name="Annotation profile for boot2" enabled="true">
-        <sourceOutputDir name="../springkafka_max.poll.interval.ms/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafka_max.poll.interval.ms/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="springkafka (1)" />
+        <module name="springkafkaBatchSend (5)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -57,6 +58,7 @@
       <module name="boot-aopRateLimit" target="1.8" />
       <module name="boot-assert" target="1.8" />
       <module name="boot-oshi" target="1.8" />
+      <module name="boot-startvalidator" target="1.8" />
       <module name="boot-unit-response" target="1.8" />
       <module name="boot-validate" target="1.8" />
       <module name="boot2" target="1.8" />
@@ -95,6 +97,7 @@
       <module name="boot-aopRateLimit" options="-parameters" />
       <module name="boot-assert" options="-parameters" />
       <module name="boot-oshi" options="-parameters" />
+      <module name="boot-startvalidator" options="-parameters" />
       <module name="boot-unit-response" options="-parameters" />
       <module name="boot-validate" options="-parameters" />
       <module name="boot2" options="-parameters" />

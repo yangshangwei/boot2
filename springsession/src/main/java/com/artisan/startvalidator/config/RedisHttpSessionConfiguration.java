@@ -1,4 +1,4 @@
-package com.artisan.config;
+package com.artisan.startvalidator.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

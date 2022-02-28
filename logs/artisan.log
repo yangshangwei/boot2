@@ -1,0 +1,52 @@
+2022-02-28 00:54:37.474 [restartedMain] INFO  com.artisan.AopRateLimitApplication:55 - Starting AopRateLimitApplication using Java 1.8.0_261 on LAPTOP-JF3RBRRJ with PID 21136 (D:\IdeaProjects\boot2\boot-aopRateLimit\target\classes started by artisan in D:\IdeaProjects\boot2)
+2022-02-28 00:54:37.477 [restartedMain] INFO  com.artisan.AopRateLimitApplication:660 - No active profile set, falling back to default profiles: default
+2022-02-28 00:54:37.521 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-28 00:54:37.522 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-28 00:54:38.441 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:108 - Tomcat initialized with port(s): 8080 (http)
+2022-02-28 00:54:38.447 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-02-28 00:54:38.448 [restartedMain] INFO  org.apache.catalina.core.StandardService:173 - Starting service [Tomcat]
+2022-02-28 00:54:38.448 [restartedMain] INFO  org.apache.catalina.core.StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-02-28 00:54:38.499 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring embedded WebApplicationContext
+2022-02-28 00:54:38.499 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext:289 - Root WebApplicationContext: initialization completed in 975 ms
+2022-02-28 00:54:38.699 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181 - Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-28 00:54:38.840 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer:58 - LiveReload server is running on port 35729
+2022-02-28 00:54:38.853 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-02-28 00:54:38.868 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-28 00:54:38.877 [restartedMain] INFO  com.artisan.AopRateLimitApplication:61 - Started AopRateLimitApplication in 1.793 seconds (JVM running for 2.656)
+2022-02-28 00:54:41.438 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-28 00:54:41.439 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2022-02-28 00:54:41.439 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet:547 - Completed initialization in 0 ms
+2022-02-28 00:54:41.528 [http-nio-8080-exec-1] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:54:41
+2022-02-28 00:54:42.066 [http-nio-8080-exec-2] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:54:42
+2022-02-28 00:54:42.813 [http-nio-8080-exec-3] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:54:42
+2022-02-28 00:54:43.464 [http-nio-8080-exec-5] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:54:43
+2022-02-28 00:54:43.898 [http-nio-8080-exec-6] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:54:43
+2022-02-28 00:54:44.464 [http-nio-8080-exec-4] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:54:44
+2022-02-28 00:54:44.695 [http-nio-8080-exec-7] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:54:44
+2022-02-28 00:54:45.462 [http-nio-8080-exec-8] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:54:45
+2022-02-28 00:54:45.592 [http-nio-8080-exec-9] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:54:45
+2022-02-28 00:58:18.934 [http-nio-8080-exec-1] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:58:18
+2022-02-28 00:58:19.204 [http-nio-8080-exec-2] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:58:19
+2022-02-28 00:58:19.390 [http-nio-8080-exec-3] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:19
+2022-02-28 00:58:19.935 [http-nio-8080-exec-5] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:58:19
+2022-02-28 00:58:20.022 [http-nio-8080-exec-6] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:20
+2022-02-28 00:58:20.171 [http-nio-8080-exec-4] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:20
+2022-02-28 00:58:20.291 [http-nio-8080-exec-7] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:20
+2022-02-28 00:58:20.841 [http-nio-8080-exec-9] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:20
+2022-02-28 00:58:20.933 [http-nio-8080-exec-8] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:58:20
+2022-02-28 00:58:21.077 [http-nio-8080-exec-10] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:21
+2022-02-28 00:58:21.277 [http-nio-8080-exec-1] WARN  com.artisan.controller.RateLimitController:40 - BOOM 服务降级，时间2022-02-28 00:58:21
+2022-02-28 00:58:21.934 [http-nio-8080-exec-2] INFO  com.artisan.controller.RateLimitController:44 - 获取令牌成功，时间2022-02-28 00:58:21
+2022-02-28 00:58:31.582 [http-nio-8080-exec-3] INFO  com.artisan.aop.ArtisanLimitAop:53 - 新建了令牌桶=testLimit2，容量=1.0
+2022-02-28 00:58:31.582 [http-nio-8080-exec-3] INFO  com.artisan.controller.RateLimitController:53 - 令牌桶test2获取令牌成功
+2022-02-28 00:58:31.742 [http-nio-8080-exec-5] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:31.862 [http-nio-8080-exec-6] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:32.009 [http-nio-8080-exec-4] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:32.590 [http-nio-8080-exec-7] INFO  com.artisan.controller.RateLimitController:53 - 令牌桶test2获取令牌成功
+2022-02-28 00:58:32.676 [http-nio-8080-exec-9] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:32.825 [http-nio-8080-exec-8] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:32.956 [http-nio-8080-exec-10] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:33.389 [http-nio-8080-exec-2] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:33.557 [http-nio-8080-exec-3] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败
+2022-02-28 00:58:33.582 [http-nio-8080-exec-1] INFO  com.artisan.controller.RateLimitController:53 - 令牌桶test2获取令牌成功
+2022-02-28 00:58:33.726 [http-nio-8080-exec-5] WARN  com.artisan.aop.ArtisanLimitAop:60 - 令牌桶=testLimit2，获取令牌失败

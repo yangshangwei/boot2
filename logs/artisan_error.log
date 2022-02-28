@@ -1,0 +1,194 @@
+2022-02-28 22:21:05 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.code
+    Value: null
+    Reason: 必须配置[artisan.code]属性
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 22:30:11 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.code
+    Value: null
+    Reason: 必须配置[artisan.code]属性
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 22:38:41 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.code
+    Value: null
+    Reason: [artisan.code] 属性必须要在配置文件配置
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 22:40:08 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.id
+    Value: null
+    Reason: [artisan.code] 属性的长度需要大于8
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 22:51:11 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.id
+    Value: null
+    Reason: [artisan.code] 属性的长度需要大于8
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 22:51:37 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.id
+    Value: null
+    Reason: [artisan.code] 属性的长度需要大于8
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 23:04:19 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.code
+    Value: null
+    Reason: [artisan.code] 属性必须要在配置文件application.properties中配置
+
+    Property: artisan.code
+    Value: null
+    Reason: 必须配置[artisan.code]属性
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 23:05:36 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.code
+    Value: null
+    Reason: 必须配置[artisan.code]属性
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 23:15:15 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.id
+    Value: null
+    Reason: [artisan.code] 属性的长度需要大于8
+
+
+Action:
+
+Update your application's configuration
+
+2022-02-28 23:15:58 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Binding to target org.springframework.boot.context.properties.bind.BindException: Failed to bind properties under 'artisan' to com.artisan.startvalidator.config.ArtisanConfigProperties failed:
+
+    Property: artisan.code
+    Value: null
+    Reason: [artisan.code] 属性必须要在配置文件application.properties中配置
+
+
+Action:
+
+Update your application's configuration
+
