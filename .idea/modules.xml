@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/boot-oshi/boot-oshi.iml" filepath="$PROJECT_DIR$/boot-oshi/boot-oshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-startvalidator/boot-startvalidator.iml" filepath="$PROJECT_DIR$/boot-startvalidator/boot-startvalidator.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" filepath="$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-uploadWithProgress/boot-uploadWithProgress.iml" filepath="$PROJECT_DIR$/boot-uploadWithProgress/boot-uploadWithProgress.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-validate/boot-validate.iml" filepath="$PROJECT_DIR$/boot-validate/boot-validate.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2.iml" filepath="$PROJECT_DIR$/boot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2-buziValidator/boot2-buziValidator.iml" filepath="$PROJECT_DIR$/boot2-buziValidator/boot2-buziValidator.iml" />

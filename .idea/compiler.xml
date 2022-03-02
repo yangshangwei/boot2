@@ -10,16 +10,18 @@
         <module name="springkafkaBatchSend (7)" />
         <module name="boot-aopRateLimit" />
         <module name="springkafkaBatchSend (3)" />
+        <module name="springkafkaBatchSend (5)" />
         <module name="springkafkaBatchSend (1)" />
+        <module name="boot-uploadWithProgress" />
         <module name="springkafka" />
         <module name="spring" />
         <module name="spiProvider" />
-        <module name="springkafkaBatchSend" />
         <module name="jvmTuning" />
         <module name="javareview" />
         <module name="spring_maven" />
         <module name="springdataredis" />
         <module name="spiCaller" />
+        <module name="springkafka (1)" />
         <module name="helloboot" />
         <module name="java8review" />
         <module name="boot-assert" />
@@ -37,21 +39,20 @@
         <module name="springsession" />
         <module name="boot-copyObject" />
         <module name="redissionmaster" />
-        <module name="springkafka (2)" />
         <module name="boot-unit-response" />
         <module name="boot-startvalidator" />
       </profile>
-      <profile name="Annotation profile for springkafkaBatchSend (5)" enabled="true">
-        <sourceOutputDir name="../springkafkaBroadCast/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springkafkaBroadCast/target/generated-test-sources/test-annotations" />
+      <profile name="Annotation profile for springkafkaBatchSend" enabled="true">
+        <sourceOutputDir name="../springkafkaConcurrencyConsume/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springkafkaConcurrencyConsume/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafkaBatchSend (5)" />
+        <module name="springkafkaBatchSend" />
       </profile>
       <profile name="Annotation profile for boot2" enabled="true">
         <sourceOutputDir name="../springkafka/target/generated-sources/annotations" />
         <sourceTestOutputDir name="../springkafka/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springkafka (1)" />
+        <module name="springkafka (2)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -64,6 +65,7 @@
       <module name="boot-oshi" target="1.8" />
       <module name="boot-startvalidator" target="1.8" />
       <module name="boot-unit-response" target="1.8" />
+      <module name="boot-uploadWithProgress" target="1.8" />
       <module name="boot-validate" target="1.8" />
       <module name="boot2" target="1.8" />
       <module name="boot2-buziValidator" target="1.8" />
@@ -105,6 +107,7 @@
       <module name="boot-oshi" options="-parameters" />
       <module name="boot-startvalidator" options="-parameters" />
       <module name="boot-unit-response" options="-parameters" />
+      <module name="boot-uploadWithProgress" options="-parameters" />
       <module name="boot-validate" options="-parameters" />
       <module name="boot2" options="-parameters" />
       <module name="boot2-buziValidator" options="-parameters" />
