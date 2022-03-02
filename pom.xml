@@ -34,6 +34,8 @@
         <module>boot2-buziValidator</module>
         <module>boot-oshi</module>
         <module>boot-aopRateLimit</module>
+        <module>boot-async</module>
+        <module>boot-copyObject</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
