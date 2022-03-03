@@ -37,6 +37,7 @@
         <module>boot-async</module>
         <module>boot-copyObject</module>
         <module>boot-uploadWithProgress</module>
+        <module>boot-alibaba_manager</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
