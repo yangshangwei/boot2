@@ -38,6 +38,12 @@
         <module>boot-copyObject</module>
         <module>boot-uploadWithProgress</module>
         <module>boot-alibaba_manager</module>
+        <module>boot-easyexcel</module>
+        <module>boot-retry</module>
+        <module>boot-knife4j</module>
+        <module>boot-kotime</module>
+        <module>boot-bbos</module>
+        <module>disruptor</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

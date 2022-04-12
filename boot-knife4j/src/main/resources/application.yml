@@ -1,0 +1,20 @@
+knife4j:
+  # 开启增强配置
+  enable: true
+  # 开启生产环境屏蔽
+  production: false
+  # 开启Swagger的Basic认证功能,默认是false
+  basic:
+    enable: true
+    # Basic认证用户名
+    username: test
+    # Basic认证密码
+    password: 12311
+
+
+
+artisan:
+  swagger:
+    base-package: com.artisan.controller
+
+

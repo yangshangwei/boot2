@@ -1,0 +1,10 @@
+artisan:
+  swagger:
+    base-package: com.artisan.controller
+
+
+server:
+  port: 7654
+
+knife4j:
+  production: false
