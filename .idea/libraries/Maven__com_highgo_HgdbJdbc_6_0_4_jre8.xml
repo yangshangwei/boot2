@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.highgo:HgdbJdbc:6.0.4.jre8">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/highgo/HgdbJdbc/6.0.4.jre8/HgdbJdbc-6.0.4.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/highgo/HgdbJdbc/6.0.4.jre8/HgdbJdbc-6.0.4.jre8.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/highgo/HgdbJdbc/6.0.4.jre8/HgdbJdbc-6.0.4.jre8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/highgo/HgdbJdbc/6.0.4.jre8/HgdbJdbc-6.0.4.jre8-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/highgo/HgdbJdbc/6.0.4.jre8/HgdbJdbc-6.0.4.jre8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/highgo/HgdbJdbc/6.0.4.jre8/HgdbJdbc-6.0.4.jre8-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

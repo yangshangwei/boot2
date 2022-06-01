@@ -19,11 +19,10 @@
     <orderEntry type="library" name="Maven: com.alibaba:transmittable-thread-local:2.10.2" level="project" />
     <orderEntry type="library" name="Maven: com.jcraft:jsch:0.1.44-1" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.24.Final" level="project" />
-    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.4.7" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.7.20" level="project" />
     <orderEntry type="library" name="Maven: redis.clients:jedis:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-pool2:2.9.0" level="project" />
-    <orderEntry type="library" name="Maven: QRCode:QRCode:1.0" level="project" />
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.15" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.78" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.11" level="project" />

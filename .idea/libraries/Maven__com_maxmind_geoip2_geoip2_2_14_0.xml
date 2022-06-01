@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.maxmind.geoip2:geoip2:2.14.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/maxmind/geoip2/geoip2/2.14.0/geoip2-2.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/maxmind/geoip2/geoip2/2.14.0/geoip2-2.14.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/maxmind/geoip2/geoip2/2.14.0/geoip2-2.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

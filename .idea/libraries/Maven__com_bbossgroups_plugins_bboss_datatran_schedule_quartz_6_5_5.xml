@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bbossgroups.plugins:bboss-datatran-schedule-quartz:6.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/bbossgroups/plugins/bboss-datatran-schedule-quartz/6.5.5/bboss-datatran-schedule-quartz-6.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/bbossgroups/plugins/bboss-datatran-schedule-quartz/6.5.5/bboss-datatran-schedule-quartz-6.5.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/bbossgroups/plugins/bboss-datatran-schedule-quartz/6.5.5/bboss-datatran-schedule-quartz-6.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

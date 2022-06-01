@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-context:5.2.6.RELEASE">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

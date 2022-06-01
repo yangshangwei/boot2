@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.github.spullara.mustache.java:compiler:0.9.6">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/github/spullara/mustache/java/compiler/0.9.6/compiler-0.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/github/spullara/mustache/java/compiler/0.9.6/compiler-0.9.6.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/github/spullara/mustache/java/compiler/0.9.6/compiler-0.9.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/github/spullara/mustache/java/compiler/0.9.6/compiler-0.9.6-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/github/spullara/mustache/java/compiler/0.9.6/compiler-0.9.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/github/spullara/mustache/java/compiler/0.9.6/compiler-0.9.6-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

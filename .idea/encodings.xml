@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/adminMonitor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/applicatioonBuilderDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-alibaba_manager/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-aopRateLimit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-assert/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-async/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-bbos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-bigfile/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-copyObject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-easyexcel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-knife4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-kotime/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-oshi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-retry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-startvalidator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-unit-response/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-uploadWithProgress/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot-validate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/boot2-buziValidator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-mercy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disruptor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/es-highlevelAPI/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/helloboot/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java8review/src/main/java" charset="UTF-8" />
@@ -25,20 +33,6 @@
     <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_maven/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springdataredis/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafka/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafka/src/main/resources/application.yml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/springkafkaACK/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaBatchConsumer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaBatchSend/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaBroadCast/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaConcurrencyConsume/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaRetries/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaSerialConsume/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaTransaction/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafkaTransactionByAnnotation/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafka_auto.offset.reset/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafka_max.poll.interval.ms/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springkafka_max.poll.interval.ms/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springsession/src/main/java" charset="UTF-8" />
   </component>
 </project>

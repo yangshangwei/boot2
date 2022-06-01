@@ -7,18 +7,6 @@
         <module>helloboot</module>
         <module>springsession</module>
         <module>springdataredis</module>
-        <module>springkafka</module>
-        <module>springkafkaBatchConsumer</module>
-        <module>springkafkaBatchSend</module>
-        <module>springkafkaBroadCast</module>
-        <module>springkafka_auto.offset.reset</module>
-        <module>springkafka_max.poll.interval.ms</module>
-        <module>springkafkaACK</module>
-        <module>springkafkaConcurrencyConsume</module>
-        <module>springkafkaRetries</module>
-        <module>springkafkaTransaction</module>
-        <module>springkafkaSerialConsume</module>
-        <module>springkafkaTransactionByAnnotation</module>
         <module>javareview</module>
         <module>java8review</module>
         <module>jvmTuning</module>
@@ -44,6 +32,9 @@
         <module>boot-kotime</module>
         <module>boot-bbos</module>
         <module>disruptor</module>
+        <module>boot-autoconfig</module>
+        <module>cloud-mercy</module>
+        <module>boot-bigfile</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

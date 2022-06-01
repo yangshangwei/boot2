@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/adminMonitor/adminMonitor.iml" filepath="$PROJECT_DIR$/adminMonitor/adminMonitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/applicatioonBuilderDemo/applicatioonBuilderDemo.iml" filepath="$PROJECT_DIR$/applicatioonBuilderDemo/applicatioonBuilderDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-alibaba_manager/boot-alibaba_manager.iml" filepath="$PROJECT_DIR$/boot-alibaba_manager/boot-alibaba_manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-aopRateLimit/boot-aopRateLimit.iml" filepath="$PROJECT_DIR$/boot-aopRateLimit/boot-aopRateLimit.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-assert/boot-assert.iml" filepath="$PROJECT_DIR$/boot-assert/boot-assert.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-async/boot-async.iml" filepath="$PROJECT_DIR$/boot-async/boot-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-autoconfig/boot-autoconfig.iml" filepath="$PROJECT_DIR$/boot-autoconfig/boot-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-bbos/boot-bbos.iml" filepath="$PROJECT_DIR$/boot-bbos/boot-bbos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-bigfile/boot-bigfile.iml" filepath="$PROJECT_DIR$/boot-bigfile/boot-bigfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-copyObject/boot-copyObject.iml" filepath="$PROJECT_DIR$/boot-copyObject/boot-copyObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-easyexcel/boot-easyexcel.iml" filepath="$PROJECT_DIR$/boot-easyexcel/boot-easyexcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-knife4j/boot-knife4j.iml" filepath="$PROJECT_DIR$/boot-knife4j/boot-knife4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-kotime/boot-kotime.iml" filepath="$PROJECT_DIR$/boot-kotime/boot-kotime.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-oshi/boot-oshi.iml" filepath="$PROJECT_DIR$/boot-oshi/boot-oshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-retry/boot-retry.iml" filepath="$PROJECT_DIR$/boot-retry/boot-retry.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-startvalidator/boot-startvalidator.iml" filepath="$PROJECT_DIR$/boot-startvalidator/boot-startvalidator.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" filepath="$PROJECT_DIR$/boot-unit-response/boot-unit-response.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-uploadWithProgress/boot-uploadWithProgress.iml" filepath="$PROJECT_DIR$/boot-uploadWithProgress/boot-uploadWithProgress.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-validate/boot-validate.iml" filepath="$PROJECT_DIR$/boot-validate/boot-validate.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2.iml" filepath="$PROJECT_DIR$/boot2.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot2-buziValidator/boot2-buziValidator.iml" filepath="$PROJECT_DIR$/boot2-buziValidator/boot2-buziValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mercy/cloud-mercy.iml" filepath="$PROJECT_DIR$/cloud-mercy/cloud-mercy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disruptor/disruptor.iml" filepath="$PROJECT_DIR$/disruptor/disruptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/es-highlevelAPI/es-highlevelAPI.iml" filepath="$PROJECT_DIR$/es-highlevelAPI/es-highlevelAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloboot/helloboot.iml" filepath="$PROJECT_DIR$/helloboot/helloboot.iml" />
@@ -28,18 +36,6 @@
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_maven/spring_maven.iml" filepath="$PROJECT_DIR$/spring_maven/spring_maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdataredis/springdataredis.iml" filepath="$PROJECT_DIR$/springdataredis/springdataredis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafka/springkafka.iml" filepath="$PROJECT_DIR$/springkafka/springkafka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafka_auto.offset.reset/springkafka (1).iml" filepath="$PROJECT_DIR$/springkafka_auto.offset.reset/springkafka (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafka_max.poll.interval.ms/springkafka (2).iml" filepath="$PROJECT_DIR$/springkafka_max.poll.interval.ms/springkafka (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaBatchSend/springkafkaBatchSend.iml" filepath="$PROJECT_DIR$/springkafkaBatchSend/springkafkaBatchSend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaBatchConsumer/springkafkaBatchSend (1).iml" filepath="$PROJECT_DIR$/springkafkaBatchConsumer/springkafkaBatchSend (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaBroadCast/springkafkaBatchSend (2).iml" filepath="$PROJECT_DIR$/springkafkaBroadCast/springkafkaBatchSend (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaRetries/springkafkaBatchSend (3).iml" filepath="$PROJECT_DIR$/springkafkaRetries/springkafkaBatchSend (3).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaConcurrencyConsume/springkafkaBatchSend (4).iml" filepath="$PROJECT_DIR$/springkafkaConcurrencyConsume/springkafkaBatchSend (4).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaSerialConsume/springkafkaBatchSend (5).iml" filepath="$PROJECT_DIR$/springkafkaSerialConsume/springkafkaBatchSend (5).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaACK/springkafkaBatchSend (6).iml" filepath="$PROJECT_DIR$/springkafkaACK/springkafkaBatchSend (6).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaTransaction/springkafkaBatchSend (7).iml" filepath="$PROJECT_DIR$/springkafkaTransaction/springkafkaBatchSend (7).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springkafkaTransactionByAnnotation/springkafkaBatchSend (8).iml" filepath="$PROJECT_DIR$/springkafkaTransactionByAnnotation/springkafkaBatchSend (8).iml" />
       <module fileurl="file://$PROJECT_DIR$/springsession/springsession.iml" filepath="$PROJECT_DIR$/springsession/springsession.iml" />
     </modules>
   </component>

@@ -4,21 +4,21 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/springkafka/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaBatchSend/pom.xml" />
-        <option value="$PROJECT_DIR$/springkafkaBatchConsumer/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaRetries/pom.xml" />
-        <option value="$PROJECT_DIR$/springkafkaConcurrencyConsume/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaSerialConsume/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaACK/pom.xml" />
         <option value="$PROJECT_DIR$/springkafkaTransaction/pom.xml" />
-        <option value="$PROJECT_DIR$/springkafkaTransactionByAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/springkafka_auto.offset.reset/pom.xml" />
-        <option value="$PROJECT_DIR$/springkafka_max.poll.interval.ms/pom.xml" />
         <option value="$PROJECT_DIR$/es-highlevelAPI/pom.xml" />
-        <option value="$PROJECT_DIR$/adminMonitor/pom.xml" />
         <option value="$PROJECT_DIR$/boot-startvalidator/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/jmh-benchmark/pom.xml" />
+        <option value="$PROJECT_DIR$/jmh/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

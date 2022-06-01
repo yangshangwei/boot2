@@ -12,6 +12,16 @@
       <option name="url" value="https://dl.bintray.com/rabbitmq/maven-milestones" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="maven-public" />
+      <option name="name" value="maven-public" />
+      <option name="url" value="http://20.10.30.216:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://20.10.30.216:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />

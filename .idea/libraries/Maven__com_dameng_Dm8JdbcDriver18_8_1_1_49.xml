@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.dameng:Dm8JdbcDriver18:8.1.1.49">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/dameng/Dm8JdbcDriver18/8.1.1.49/Dm8JdbcDriver18-8.1.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/dameng/Dm8JdbcDriver18/8.1.1.49/Dm8JdbcDriver18-8.1.1.49.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/dameng/Dm8JdbcDriver18/8.1.1.49/Dm8JdbcDriver18-8.1.1.49-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/dameng/Dm8JdbcDriver18/8.1.1.49/Dm8JdbcDriver18-8.1.1.49-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/com/dameng/Dm8JdbcDriver18/8.1.1.49/Dm8JdbcDriver18-8.1.1.49-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/com/dameng/Dm8JdbcDriver18/8.1.1.49/Dm8JdbcDriver18-8.1.1.49-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

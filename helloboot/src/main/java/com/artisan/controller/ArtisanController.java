@@ -1,7 +1,10 @@
 package com.artisan.controller;
 
+import com.artisan.domain.Artisan;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.Arrays;
 
 /**
  * @author 小工匠
@@ -17,8 +20,17 @@ public class ArtisanController {
 
 
     @RequestMapping("/hi")
-    public String test(){
+    public String test() {
         return "小工匠 每日一博";
+    }
+
+    @RequestMapping("/hi2")
+    public Object test2() {
+        Artisan artisan = new Artisan();
+        artisan.setName("小工匠");
+        artisan.setAge(18);
+        artisan.setHobbies(Arrays.asList("code", "sleep", "study"));
+        return artisan;
     }
 }
     

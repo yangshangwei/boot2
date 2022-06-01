@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.elasticsearch:elasticsearch-x-content:7.12.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/elasticsearch/elasticsearch-x-content/7.12.1/elasticsearch-x-content-7.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/org/elasticsearch/elasticsearch-x-content/7.12.1/elasticsearch-x-content-7.12.1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/elasticsearch/elasticsearch-x-content/7.12.1/elasticsearch-x-content-7.12.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/org/elasticsearch/elasticsearch-x-content/7.12.1/elasticsearch-x-content-7.12.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo/org/elasticsearch/elasticsearch-x-content/7.12.1/elasticsearch-x-content-7.12.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Program Files (x86)/apache-maven-3.6.3/Maven_Repo_xxl/org/elasticsearch/elasticsearch-x-content/7.12.1/elasticsearch-x-content-7.12.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

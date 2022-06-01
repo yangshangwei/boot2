@@ -19,7 +19,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.10.8" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.3" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.3" level="project" />
-    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.6.3" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.7.20" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-elasticsearch:4.0.8.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.2" level="project" />
