@@ -20,12 +20,7 @@ public class ApplcationBuilderDemo {
 
         SpringApplication.run(ApplcationBuilderDemo.class, args);
 
-        // 关闭banner  关闭启动信息
-        new SpringApplicationBuilder(ApplcationBuilderDemo.class)
-                .bannerMode(Banner.Mode.OFF)
-                .logStartupInfo(false)
-                .build()
-                .run(args);
+
     }
 }
     
